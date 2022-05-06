@@ -6,4 +6,5 @@
 # Содержание #
 
 * exam 02 - директория с подготовкой к exam rank 02. Содержит следующие задания: `ft_printf`, `get_next_line`, `inter`, `union`
-* exam 03 - директория с подготовкой к exam rank 02. Содержит следующие задания: `micro_paint`, `mini_paint`
+* exam 03 - директория с подготовкой к exam rank 03. Содержит следующие задания: `micro_paint`, `mini_paint`
+* exam 04 - директория с подготовкой к exam rank 04. Содержит следующие задания: `microshell`
